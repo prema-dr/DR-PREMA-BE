@@ -1,0 +1,1695 @@
+[
+  {
+    "name": "Normal Delivery",
+    "slug": "normal-delivery",
+    "sortOrder": 1,
+    "iconKey": "Baby",
+    "imageUrl": "/images/prenatal-care.jpg",
+    "summary": "Supportive care for a safe vaginal birth.",
+    "heroHeading": "Safe, Supportive Normal Delivery in Coimbatore",
+    "heroSub": "Informed, respectful maternity care that puts your safety and your baby's wellbeing first.",
+    "content": {
+      "fullTitle": "Normal Delivery",
+      "sections": [
+        {
+          "heading": "What is a normal delivery?",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Normal delivery, also called vaginal delivery, is the birth of a baby through the vagina. It is a natural physiological process in which the uterus contracts, the cervix dilates, and the baby moves through the birth canal."
+            },
+            {
+              "t": "p",
+              "text": "For many women, vaginal birth offers a shorter recovery period and an earlier return to everyday activities compared with caesarean birth. However, every pregnancy is different, and the safest mode of delivery depends on the health of the mother and baby."
+            }
+          ]
+        },
+        {
+          "heading": "How can you prepare for normal delivery?",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Preparing for childbirth can help you feel more confident and informed."
+            },
+            {
+              "t": "ul",
+              "items": [
+                "Attend regular antenatal check-ups.",
+                "Maintain a balanced diet and appropriate physical activity.",
+                "Learn breathing and relaxation techniques.",
+                "Discuss your birth preferences with your obstetrician.",
+                "Understand the signs of labour and when to come to the hospital.",
+                "Choose a maternity team that supports informed decision-making and safe childbirth."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "What are the benefits of vaginal delivery?",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Vaginal delivery may offer a shorter hospital stay, faster recovery, earlier mobility and avoidance of abdominal surgery. The experience and recovery vary from person to person."
+            },
+            {
+              "t": "p",
+              "text": "A caesarean section may be necessary when vaginal birth poses a greater risk to the mother or baby. A safe birth is more important than achieving a particular mode of delivery."
+            }
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Is normal delivery possible in every pregnancy?",
+          "a": "No. Some medical conditions, placental problems, foetal positions or complications during labour may make a caesarean section the safer option."
+        },
+        {
+          "q": "Can I have a normal delivery after 30 or 35 years of age?",
+          "a": "Yes, age alone does not determine the mode of delivery. Your overall health, pregnancy progress and obstetric history are important."
+        },
+        {
+          "q": "How can I increase my chances of normal delivery?",
+          "a": "Regular antenatal care, appropriate physical activity, emotional preparation and discussing your birth preferences with your obstetrician can help."
+        }
+      ],
+      "closing": [
+        "Looking forward to childbirth? Speak with your obstetrician to develop an individualised birth plan that prioritises your safety and your baby's wellbeing."
+      ]
+    }
+  },
+  {
+    "name": "Natural Birthing",
+    "slug": "natural-birthing",
+    "sortOrder": 2,
+    "iconKey": "Heart",
+    "imageUrl": "/images/hands-reassurance.jpg",
+    "summary": "A physiological approach to labour with medical safety.",
+    "heroHeading": "Natural Birthing with Compassionate Support",
+    "heroSub": "Freedom of movement, emotional support and timely medical care whenever it is needed.",
+    "content": {
+      "fullTitle": "Natural Birthing",
+      "sections": [
+        {
+          "heading": "What is natural birthing?",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Natural birthing generally refers to an approach to childbirth that supports the body's physiological process of labour, encourages freedom of movement, provides emotional support and avoids unnecessary medical interventions when they are not needed."
+            },
+            {
+              "t": "p",
+              "text": "It focuses on helping women feel informed, supported and actively involved in their childbirth experience."
+            },
+            {
+              "t": "p",
+              "text": "Natural birthing does not mean refusing medical care. Monitoring, pain relief, assisted delivery or caesarean section may be needed if complications arise."
+            }
+          ]
+        },
+        {
+          "heading": "What are the principles of natural birthing?",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "A supportive natural birthing approach may include:"
+            },
+            {
+              "t": "ul",
+              "items": [
+                "Freedom to walk and change positions during labour, when appropriate.",
+                "Breathing, relaxation and visualisation techniques.",
+                "Continuous emotional support from a chosen birth companion.",
+                "Upright or alternative birthing positions when suitable.",
+                "Warm water immersion or hydrotherapy for comfort.",
+                "Respectful communication and shared decision-making.",
+                "Timely medical intervention whenever clinically necessary."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Who can consider natural birthing?",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Many women with uncomplicated pregnancies can explore a physiological approach to labour. Suitability depends on maternal health, the baby's condition, pregnancy complications and the facilities available."
+            },
+            {
+              "t": "p",
+              "text": "Women with high-risk pregnancies may also benefit from supportive birthing practices, but monitoring and the birth plan must be adapted to their individual needs."
+            }
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Does natural birthing mean giving birth without pain relief?",
+          "a": "Not necessarily. Some women prefer non-medical comfort measures, while others choose epidural or other forms of analgesia. The choice should be informed and flexible."
+        },
+        {
+          "q": "Is natural birthing safe for the baby?",
+          "a": "A physiological approach can be appropriate for selected pregnancies when suitable monitoring and emergency support are available. Safety depends on the individual pregnancy and timely recognition of complications."
+        },
+        {
+          "q": "Can I change my birth plan during labour?",
+          "a": "Absolutely. Your comfort, preferences and medical needs may change during labour. A birth plan should guide care, not restrict necessary treatment."
+        }
+      ],
+      "closing": [
+        "Our approach: Childbirth should be supported with compassion, evidence-based care and respect for each woman's preferences."
+      ]
+    }
+  },
+  {
+    "name": "Waterbirthing",
+    "slug": "waterbirthing",
+    "sortOrder": 3,
+    "iconKey": "Waves",
+    "imageUrl": "/images/wellness-woman.jpg",
+    "summary": "Carefully selected, closely monitored birth in water.",
+    "heroHeading": "Waterbirthing Guided by Safety and Eligibility",
+    "heroSub": "Understand who is suitable, how safety is maintained and what to expect before labour begins.",
+    "content": {
+      "fullTitle": "Waterbirthing",
+      "sections": [
+        {
+          "heading": "What is waterbirthing?",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Waterbirthing refers to giving birth while immersed in warm water. It is different from labouring in water and then getting out of the pool for delivery."
+            },
+            {
+              "t": "p",
+              "text": "Warm water may help some women relax, manage contractions and move more comfortably during labour. However, waterbirth is not suitable for every pregnancy, and evidence regarding its benefits and risks differs between labouring in water and actually delivering the baby underwater."
+            }
+          ]
+        },
+        {
+          "heading": "Potential benefits of waterbirthing",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "For selected women, water immersion may:"
+            },
+            {
+              "t": "ul",
+              "items": [
+                "Promote relaxation and reduce anxiety.",
+                "Improve comfort during contractions.",
+                "Make it easier to change positions.",
+                "Provide a greater sense of privacy and control.",
+                "Reduce the need for some forms of pain relief during labour."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Who may be eligible for waterbirthing?",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Waterbirth is generally considered only for carefully selected women with an uncomplicated and appropriately monitored pregnancy."
+            },
+            {
+              "t": "p",
+              "text": "Eligibility depends on gestational age, maternal and foetal health, labour progress, infection risks and the ability to leave the pool promptly if needed. Certain complications, significant bleeding, concerning foetal heart rate patterns or other clinical risks may make waterbirth unsuitable."
+            }
+          ]
+        },
+        {
+          "heading": "How is safety maintained?",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "A planned waterbirth requires trained staff, appropriate pool hygiene, careful temperature control, suitable maternal and foetal monitoring, and a clear emergency exit and transfer plan."
+            },
+            {
+              "t": "p",
+              "text": "The baby's head and airway must be managed according to established clinical protocols. If a complication develops, the woman may need to leave the pool and receive immediate medical care."
+            }
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Is waterbirth completely safe?",
+          "a": "Waterbirth requires careful patient selection, trained staff and clear protocols for responding to emergencies."
+        },
+        {
+          "q": "Can every pregnant woman choose waterbirth?",
+          "a": "No. The obstetric team should assess suitability based on the pregnancy, labour progress, hospital policy and available facilities."
+        },
+        {
+          "q": "Is waterbirth the same as a water delivery or hydrotherapy?",
+          "a": "Hydrotherapy usually means using warm water for comfort during labour. Waterbirth means the baby is delivered while the mother remains immersed in water."
+        }
+      ],
+      "closing": [
+        "Interested in waterbirthing? Discuss your eligibility, available facilities, monitoring arrangements and alternatives with your obstetrician before labour begins."
+      ]
+    }
+  },
+  {
+    "name": "Hydrotherapy During Labour",
+    "slug": "hydrotherapy-during-labour",
+    "sortOrder": 4,
+    "iconKey": "Drop",
+    "imageUrl": "/images/wellness-woman.jpg",
+    "summary": "Warm water comfort measures through labour.",
+    "heroHeading": "Hydrotherapy for a More Comfortable Labour",
+    "heroSub": "Warm water to ease tension and support relaxation, alongside safe monitoring.",
+    "content": {
+      "fullTitle": "Hydrotherapy During Labour",
+      "sections": [
+        {
+          "heading": "What is hydrotherapy during labour?",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Labour hydrotherapy is the use of warm water, usually through a shower, bath or birthing pool, to improve comfort during contractions."
+            },
+            {
+              "t": "p",
+              "text": "Warm water can help some women relax their muscles, reduce tension and cope with labour more comfortably. Hydrotherapy is a comfort measure; it does not replace obstetric assessment, foetal monitoring or necessary medical treatment."
+            }
+          ]
+        },
+        {
+          "heading": "Benefits of hydrotherapy",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Depending on the method and the individual woman, hydrotherapy may:"
+            },
+            {
+              "t": "ul",
+              "items": [
+                "Help reduce stress and anxiety.",
+                "Promote relaxation between contractions.",
+                "Ease muscular tension and discomfort.",
+                "Support movement and changes in position.",
+                "Improve the overall labour experience.",
+                "Reduce the need for certain pharmacological pain-relief methods in some women."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Is hydrotherapy suitable for everyone?",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Suitability depends on the stage of labour, maternal and foetal condition, infection risk and the facility's monitoring arrangements."
+            },
+            {
+              "t": "p",
+              "text": "Women with certain pregnancy complications, fever, significant bleeding, concerning foetal heart rate patterns or other conditions may need a different approach. Warm water should be maintained at a safe temperature, and hydration and maternal wellbeing should be monitored."
+            }
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Does hydrotherapy speed up labour?",
+          "a": "It may improve comfort and relaxation."
+        },
+        {
+          "q": "Can I use a shower instead of a birthing pool?",
+          "a": "Yes. A warm shower may offer comfort and can be a practical alternative to immersion, depending on your clinical circumstances and hospital facilities."
+        },
+        {
+          "q": "Is hydrotherapy the same as an epidural?",
+          "a": "No. Hydrotherapy is a non-pharmacological comfort measure. An epidural is a medical method of pain relief that requires assessment and trained personnel."
+        }
+      ],
+      "closing": [
+        "Our goal: To help women explore appropriate comfort measures while maintaining safe monitoring and individualised maternity care."
+      ]
+    }
+  },
+  {
+    "name": "Labour Pain Relief",
+    "slug": "labour-pain-relief",
+    "sortOrder": 5,
+    "iconKey": "FirstAidKit",
+    "imageUrl": "/images/medical-equipment.jpg",
+    "summary": "Informed choices from breathing techniques to epidurals.",
+    "heroHeading": "Labour Pain Relief Options, Explained Clearly",
+    "heroSub": "Understand every option, from non-medical methods to epidural analgesia, and choose what suits you.",
+    "content": {
+      "fullTitle": "Labour Pain Relief",
+      "sections": [
+        {
+          "heading": "What is labour analgesia?",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Labour analgesia refers to methods used to reduce the pain and discomfort associated with uterine contractions and childbirth."
+            },
+            {
+              "t": "p",
+              "text": "Labour pain is experienced differently by each woman. Some women prefer breathing and relaxation techniques, while others choose medication or an epidural. There is no single correct choice for everyone."
+            }
+          ]
+        },
+        {
+          "heading": "Types of labour pain relief",
+          "blocks": []
+        },
+        {
+          "heading": "Non-medical methods",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "These may include breathing exercises, relaxation, massage, position changes, a supportive birth companion, warm showers and hydrotherapy where suitable."
+            }
+          ]
+        },
+        {
+          "heading": "Nitrous oxide",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "In facilities where it is available, nitrous oxide may provide short-acting pain relief during contractions. Its suitability and effectiveness vary."
+            }
+          ]
+        },
+        {
+          "heading": "Opioid medications",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Certain opioid medicines may be used under medical supervision. They can cause maternal side effects and may affect the baby, particularly if administered close to delivery."
+            }
+          ]
+        },
+        {
+          "heading": "Epidural analgesia",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "An epidural involves administering medication through a catheter placed in the epidural space of the back by a trained anaesthesia professional. It can provide highly effective pain relief during labour."
+            }
+          ]
+        },
+        {
+          "heading": "Does an epidural increase the chance of caesarean delivery?",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "An epidural does not automatically mean that a caesarean section will be needed. The mode of delivery depends on several factors, including labour progress, the baby's condition and other obstetric considerations."
+            }
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Can I request pain relief after labour has started?",
+          "a": "Yes. Your options depend on the stage of labour, your medical condition, available staff and the time needed to administer the chosen method."
+        },
+        {
+          "q": "Will an epidural affect my ability to push?",
+          "a": "An epidural may change sensation and the pushing experience. The effects vary depending on the medication and dose, and the maternity team will guide you through the second stage of labour."
+        },
+        {
+          "q": "Do I have to decide on pain relief before pregnancy or labour?",
+          "a": "No. It is helpful to understand the options in advance, but your preferences can change during labour."
+        }
+      ],
+      "closing": [
+        "Remember: Choosing pain relief is not a failure of natural birthing. The aim is a safe, supported and respectful childbirth experience."
+      ]
+    }
+  },
+  {
+    "name": "VBAC",
+    "slug": "vbac",
+    "sortOrder": 6,
+    "iconKey": "ArrowsClockwise",
+    "imageUrl": "/images/prenatal-care.jpg",
+    "summary": "Vaginal birth after a previous caesarean, assessed safely.",
+    "heroHeading": "Best VBAC Specialist in Coimbatore",
+    "heroSub": "Safe, evidence-based, personalised care for your next birth after a caesarean.",
+    "content": {
+      "fullTitle": "VBAC – Vaginal Birth After Caesarean",
+      "sections": [
+        {
+          "heading": "What is VBAC?",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "VBAC stands for vaginal birth after caesarean. It refers to delivering a baby vaginally after a previous caesarean section."
+            },
+            {
+              "t": "p",
+              "text": "For many women with a previous caesarean, a planned trial of labour after caesarean (TOLAC) may be an option. When this results in a vaginal birth, it is called VBAC."
+            },
+            {
+              "t": "p",
+              "text": "The decision should be individualised based on the previous caesarean details, current pregnancy, maternal health and the hospital's ability to provide emergency care."
+            }
+          ]
+        },
+        {
+          "heading": "What are the potential benefits of VBAC?",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "When successful, VBAC may offer:"
+            },
+            {
+              "t": "ul",
+              "items": [
+                "Avoidance of another abdominal operation.",
+                "A shorter recovery period.",
+                "Reduced risk of some surgical complications.",
+                "Fewer complications associated with multiple repeat caesarean deliveries in future pregnancies.",
+                "However, an unsuccessful trial of labour may require an emergency caesarean."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Who may be suitable for VBAC?",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Eligibility depends on several factors, including:"
+            },
+            {
+              "t": "ul",
+              "items": [
+                "The type of uterine incision during the previous caesarean.",
+                "The reason for the previous caesarean.",
+                "The number of previous caesarean deliveries and other uterine surgeries.",
+                "The interval between pregnancies.",
+                "The current baby's position, estimated size and wellbeing.",
+                "Other pregnancy complications and the availability of emergency services."
+              ]
+            },
+            {
+              "t": "p",
+              "text": "A previous classical uterine incision or a history of uterine rupture generally makes a planned trial of labour unsuitable. The operative notes from the previous caesarean are important."
+            }
+          ]
+        },
+        {
+          "heading": "What are the risks of VBAC?",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "The most important uncommon but serious risk is uterine rupture, which can threaten both mother and baby. Other possible outcomes include unsuccessful labour, emergency caesarean and associated complications."
+            },
+            {
+              "t": "p",
+              "text": "For this reason, a planned VBAC should take place in a suitably equipped hospital with continuous foetal monitoring and the ability to perform an emergency caesarean promptly."
+            }
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Can I have VBAC after two caesarean sections?",
+          "a": "Some women may be considered in selected circumstances, but eligibility is more complex and requires specialist assessment and appropriate hospital facilities."
+        },
+        {
+          "q": "Is VBAC always better than a repeat caesarean?",
+          "a": "No. Both options have benefits and risks. The safest choice depends on the individual pregnancy and the woman's preferences."
+        },
+        {
+          "q": "Does a previous caesarean mean I cannot have a normal delivery?",
+          "a": "Not necessarily. Many women can be assessed for a trial of labour after caesarean."
+        }
+      ],
+      "closing": [
+        "Planning another pregnancy after caesarean? Early consultation can help review your previous operation and discuss the safest delivery options."
+      ]
+    }
+  },
+  {
+    "name": "High-Risk Pregnancy Care",
+    "slug": "high-risk-pregnancy-care",
+    "sortOrder": 7,
+    "iconKey": "ShieldCheck",
+    "imageUrl": "/images/consultation-room.jpg",
+    "summary": "Close monitoring and planning for higher-risk pregnancies.",
+    "heroHeading": "High-Risk Pregnancy Care You Can Rely On",
+    "heroSub": "Careful risk assessment, regular monitoring and individualised birth planning throughout pregnancy.",
+    "content": {
+      "fullTitle": "High-Risk Pregnancy Care",
+      "sections": [
+        {
+          "heading": "What is a high-risk pregnancy?",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "A high-risk pregnancy is one in which the mother, baby or both have an increased chance of complications during pregnancy, labour or delivery."
+            },
+            {
+              "t": "p",
+              "text": "Being classified as high-risk does not mean that complications will definitely occur. With appropriate antenatal care, monitoring and timely treatment, many women with high-risk pregnancies deliver healthy babies."
+            }
+          ]
+        },
+        {
+          "heading": "What are the common causes of high-risk pregnancy?",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "A pregnancy may be considered high-risk due to:"
+            },
+            {
+              "t": "ul",
+              "items": [
+                "High blood pressure or pre-eclampsia.",
+                "Diabetes before pregnancy or gestational diabetes.",
+                "Maternal thyroid disorders or other significant medical conditions.",
+                "Twin or multiple pregnancies.",
+                "Advanced maternal age or certain pregnancy-related risk factors.",
+                "Previous pregnancy complications, recurrent pregnancy loss or preterm birth.",
+                "Placenta previa or other placental abnormalities.",
+                "Foetal growth restriction.",
+                "Severe anaemia or other maternal health conditions like heart diseases."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "How is a high-risk pregnancy managed?",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Management depends on the specific condition and may include:"
+            },
+            {
+              "t": "ul",
+              "items": [
+                "More frequent antenatal visits.",
+                "Blood tests and other investigations.",
+                "Ultrasound scans to assess foetal growth and development.",
+                "Blood pressure and blood glucose monitoring.",
+                "Foetal wellbeing assessments when indicated.",
+                "Medication or specialist consultations.",
+                "Individualised planning for the timing and mode of delivery."
+              ]
+            },
+            {
+              "t": "p",
+              "text": "Some women may need care from a multidisciplinary team involving obstetricians, physicians, endocrinologists, neonatologists or other specialists."
+            }
+          ]
+        },
+        {
+          "heading": "When should you seek urgent medical attention?",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Seek immediate assessment for severe headache, visual disturbances, severe abdominal pain, significant vaginal bleeding, fluid leakage, difficulty in breathing, seizures or reduced foetal movements after movements have become established."
+            }
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Can I have a normal delivery with a high-risk pregnancy?",
+          "a": "Some women with high-risk pregnancies can deliver vaginally. The safest mode of delivery depends on the specific condition and how the mother and baby are doing."
+        },
+        {
+          "q": "Will I need more scans?",
+          "a": "Additional scans or monitoring may be recommended depending on your condition and the stage of pregnancy."
+        },
+        {
+          "q": "Does high-risk pregnancy always mean early delivery?",
+          "a": "No. Delivery timing is individualised according to the risks of continuing the pregnancy versus delivering earlier."
+        }
+      ],
+      "closing": [
+        "Our commitment: Careful risk assessment, regular monitoring, clear communication and individualised birth planning throughout pregnancy."
+      ]
+    }
+  },
+  {
+    "name": "Advanced No-Scar Hysterectomy",
+    "slug": "no-scar-hysterectomy",
+    "sortOrder": 8,
+    "iconKey": "Scissors",
+    "imageUrl": "/images/medical-equipment.jpg",
+    "summary": "Hysterectomy through the vagina, with no abdominal scar.",
+    "heroHeading": "Advanced No-Scar Hysterectomy",
+    "heroSub": "A minimally invasive option for selected benign gynaecological conditions, with faster recovery.",
+    "content": {
+      "fullTitle": "Advanced No-Scar Hysterectomy",
+      "sections": [
+        {
+          "heading": "What is a scarless hysterectomy?",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "A hysterectomy is a surgical procedure to remove the uterus. In a no scar of nondescent vaginal hysterectomy, the uterus is removed through the vagina without an external abdominal incision."
+            },
+            {
+              "t": "p",
+              "text": "This is sometimes described as a scarless hysterectomy because there is no visible abdominal surgical scar. The term refers to the absence of an external abdominal incision."
+            },
+            {
+              "t": "p",
+              "text": "Advanced No-Scar Hysterectomy may be an appropriate option for selected women who need surgery for certain benign gynaecological conditions."
+            }
+          ]
+        },
+        {
+          "heading": "Why might a hysterectomy be recommended?",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Depending on the individual case, hysterectomy may be considered for:"
+            },
+            {
+              "t": "ul",
+              "items": [
+                "Heavy or prolonged menstrual bleeding that has not responded adequately to other treatments.",
+                "Symptomatic uterine fibroids.",
+                "Adenomyosis.",
+                "Benign gynaecological conditions."
+              ]
+            },
+            {
+              "t": "p",
+              "text": "The appropriate treatment depends on the diagnosis, severity of symptoms, previous treatments, future fertility wishes and overall health."
+            }
+          ]
+        },
+        {
+          "heading": "What are the potential benefits of no scar hysterectomy?",
+          "blocks": [
+            {
+              "t": "ul",
+              "items": [
+                "No visible abdominal incision.",
+                "Less abdominal wall trauma.",
+                "Less postoperative pain.",
+                "A shorter hospital stay and faster recovery.",
+                "Earlier return to daily activities.",
+                "Half the cost compared to robotic hysterectomy."
+              ]
+            }
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Is vaginal hysterectomy better than laparoscopic hysterectomy?",
+          "a": "Neither approach is best for every patient. Vaginal, laparoscopic and abdominal hysterectomy each have specific indications. The safest suitable route should be chosen after individual assessment."
+        },
+        {
+          "q": "Will I have a visible scar after vaginal hysterectomy?",
+          "a": "There is generally no visible abdominal scar because the operation is performed through the vagina."
+        },
+        {
+          "q": "Will I enter menopause after hysterectomy?",
+          "a": "Menstruation stops because the uterus has been removed."
+        }
+      ],
+      "closing": [
+        "Considering hysterectomy? A detailed consultation can help you understand non-surgical treatments and the most suitable surgical approach for your condition."
+      ]
+    }
+  },
+  {
+    "name": "PCOS",
+    "slug": "pcos",
+    "sortOrder": 9,
+    "iconKey": "Flower",
+    "imageUrl": "/images/nutrition-flatlay.jpg",
+    "summary": "Diagnosis and personalised management of PCOS.",
+    "heroHeading": "PCOS Care That Looks at the Whole Picture",
+    "heroSub": "Practical, individualised treatment for periods, hormones, metabolic health and fertility.",
+    "content": {
+      "fullTitle": "PCOS – Polycystic Ovary Syndrome",
+      "sections": [
+        {
+          "heading": "What is PCOS?",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Polycystic ovary syndrome (PCOS) is a common hormonal and metabolic condition that can affect menstrual cycles, ovulation, skin health and fertility."
+            },
+            {
+              "t": "p",
+              "text": "Women with PCOS may experience irregular periods, acne, excess facial or body hair, scalp hair thinning or difficulty becoming pregnant. Some women also have insulin resistance or an increased risk of developing type 2 diabetes."
+            },
+            {
+              "t": "p",
+              "text": "Despite its name, not every woman with PCOS has polycystic-appearing ovaries on ultrasound."
+            }
+          ]
+        },
+        {
+          "heading": "What are the symptoms of PCOS?",
+          "blocks": [
+            {
+              "t": "ul",
+              "items": [
+                "Irregular periods or missed periods.",
+                "Difficulty predicting ovulation.",
+                "Acne or oily skin.",
+                "Excess facial or body hair.",
+                "Thinning of scalp hair.",
+                "Difficulty conceiving.",
+                "Weight gain or difficulty managing weight in some women.",
+                "Symptoms vary considerably, and having one or two symptoms does not automatically mean you have PCOS."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "How is PCOS diagnosed?",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Diagnosis involves reviewing menstrual history, symptoms, examination findings and appropriate investigations."
+            },
+            {
+              "t": "p",
+              "text": "Depending on the patient's age and presentation, evaluation may include hormone tests, assessment for alternative causes of irregular periods, metabolic screening and pelvic ultrasound when indicated. Ultrasound alone is not sufficient to diagnose PCOS in every patient."
+            }
+          ]
+        },
+        {
+          "heading": "How is PCOS treated?",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Treatment depends on your symptoms, health risks and whether you are planning pregnancy."
+            },
+            {
+              "t": "labels",
+              "items": [
+                {
+                  "label": "Lifestyle support",
+                  "text": "Balanced nutrition, regular physical activity, adequate sleep and sustainable weight management where appropriate."
+                },
+                {
+                  "label": "Irregular periods",
+                  "text": "Hormonal contraceptives or cyclic progestogens may be prescribed to regulate bleeding."
+                },
+                {
+                  "label": "Acne and excess hair growth",
+                  "text": "Medical treatment and dermatological therapies may help."
+                },
+                {
+                  "label": "Metabolic health",
+                  "text": "Screening and treatment for glucose abnormalities and other risk factors may be recommended. Metformin may be appropriate for selected patients."
+                },
+                {
+                  "label": "Fertility treatment",
+                  "text": "Ovulation-induction medicines may be used when pregnancy is desired, depending on the clinical assessment."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Can PCOS be cured permanently?",
+          "a": "There is no single permanent cure, but symptoms and associated health risks can often be managed effectively."
+        },
+        {
+          "q": "Can I get pregnant with PCOS?",
+          "a": "Yes. Many women with PCOS conceive naturally or with treatment, depending on their ovulation and other fertility factors."
+        },
+        {
+          "q": "Does every woman with PCOS need medication?",
+          "a": "No. Treatment is individualised based on symptoms, menstrual pattern, metabolic health and fertility goals."
+        },
+        {
+          "q": "When should I consult a gynaecologist?",
+          "a": "Consult your doctor for persistently irregular periods, excessive hair growth, troublesome acne or difficulty conceiving. Prolonged absence of periods should not be ignored."
+        }
+      ],
+      "closing": []
+    }
+  },
+  {
+    "name": "Fertility Treatment",
+    "slug": "fertility-treatment",
+    "sortOrder": 10,
+    "iconKey": "MagnifyingGlass",
+    "imageUrl": "/images/consultation-room.jpg",
+    "summary": "Evaluation and treatment when pregnancy is taking time.",
+    "heroHeading": "Fertility Evaluation and Treatment with Clarity",
+    "heroSub": "Early, appropriate assessment to identify treatment options and avoid unnecessary delays.",
+    "content": {
+      "fullTitle": "Fertility Treatment",
+      "sections": [
+        {
+          "heading": "What is fertility treatment?",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Fertility treatment involves investigating and managing difficulties in achieving pregnancy. Infertility can involve female factors, male factors, a combination of both or an unexplained cause."
+            },
+            {
+              "t": "p",
+              "text": "Fertility care begins with understanding the couple's medical history and identifying potentially treatable factors. Not every couple needs advanced treatment such as IVF."
+            }
+          ]
+        },
+        {
+          "heading": "When should you seek fertility evaluation?",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "A fertility assessment is generally recommended when pregnancy has not occurred after 12 months of regular unprotected intercourse if the woman is younger than 35, or after six months if she is 35 or older."
+            },
+            {
+              "t": "p",
+              "text": "Earlier evaluation may be appropriate when the woman is over 40 or when there are known risk factors such as irregular or absent periods, suspected endometriosis, previous pelvic infection, known tubal problems or possible male-factor infertility."
+            }
+          ]
+        },
+        {
+          "heading": "What does a fertility assessment involve?",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Evaluation may include:"
+            },
+            {
+              "t": "ul",
+              "items": [
+                "Menstrual and ovulation history.",
+                "Review of previous pregnancies and medical conditions.",
+                "Ultrasound examination when indicated.",
+                "Assessment of the fallopian tubes where appropriate.",
+                "Hormonal testing based on the clinical presentation.",
+                "Semen analysis to evaluate male fertility.",
+                "Review of lifestyle, medication and other relevant factors.",
+                "Both partners should be assessed when appropriate because fertility difficulties are not exclusively a female health issue."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "What are the treatment options?",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Treatment depends on the cause and may include:"
+            },
+            {
+              "t": "labels",
+              "items": [
+                {
+                  "label": "Ovulation induction",
+                  "text": "Medicines to support ovulation in selected women."
+                },
+                {
+                  "label": "Treatment of underlying conditions",
+                  "text": "Management of PCOS, thyroid disorders or other relevant conditions."
+                },
+                {
+                  "label": "Surgical treatment",
+                  "text": "Selected tubal or uterine abnormalities may benefit from surgery."
+                },
+                {
+                  "label": "Intrauterine insemination (IUI)",
+                  "text": "Prepared sperm is placed inside the uterus at an appropriate time in the cycle."
+                },
+                {
+                  "label": "In vitro fertilisation (IVF)",
+                  "text": "Eggs are fertilised with sperm in a laboratory, and an embryo is transferred into the uterus."
+                }
+              ]
+            },
+            {
+              "t": "p",
+              "text": "Not every patient requires every treatment. Success rates depend on age, diagnosis, ovarian reserve, sperm parameters and other factors."
+            }
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Can irregular periods make pregnancy difficult?",
+          "a": "They can indicate irregular ovulation, which may reduce the number of opportunities to conceive. Assessment can identify the cause and appropriate treatment."
+        },
+        {
+          "q": "Does infertility mean I will need IVF?",
+          "a": "No. Many couples conceive with lifestyle changes, treatment of underlying conditions or simpler fertility interventions."
+        },
+        {
+          "q": "Should my partner also be tested?",
+          "a": "Yes, when appropriate. A semen analysis is often an important early part of fertility evaluation."
+        }
+      ],
+      "closing": [
+        "Planning a pregnancy? Early, appropriate assessment can help identify treatment options and avoid unnecessary delays."
+      ]
+    }
+  },
+  {
+    "name": "Uterine Fibroids",
+    "slug": "uterine-fibroids",
+    "sortOrder": 11,
+    "iconKey": "CirclesThree",
+    "imageUrl": "/images/medical-equipment.jpg",
+    "summary": "Assessment and treatment options for fibroids.",
+    "heroHeading": "Uterine Fibroids: Clear Answers, Right Treatment",
+    "heroSub": "From observation to surgery, find the approach that fits your symptoms and plans.",
+    "content": {
+      "fullTitle": "Uterine Fibroids",
+      "sections": [
+        {
+          "heading": "What are uterine fibroids?",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Uterine fibroids, also known as leiomyomas, are non-cancerous growths that develop in the muscular wall of the uterus. They are common during the reproductive years, and many women with fibroids have no symptoms."
+            },
+            {
+              "t": "p",
+              "text": "The size, number and location of fibroids influence whether they cause symptoms or require treatment."
+            }
+          ]
+        },
+        {
+          "heading": "What are the symptoms of fibroids?",
+          "blocks": [
+            {
+              "t": "ul",
+              "items": [
+                "Heavy or prolonged menstrual bleeding.",
+                "Painful periods.",
+                "Pelvic pressure or a feeling of fullness in the lower abdomen.",
+                "Frequent urination due to pressure on the bladder.",
+                "Constipation in some cases.",
+                "Difficulty conceiving in selected cases.",
+                "Pregnancy-related complications in some women.",
+                "Some women have no symptoms and may discover fibroids during a routine ultrasound."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "How are fibroids diagnosed?",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Pelvic ultrasound is commonly used to identify fibroids and assess their size, number and location. Further investigations, such as MRI or hysteroscopy, may be recommended in selected cases."
+            },
+            {
+              "t": "p",
+              "text": "The treatment decision depends on symptoms, fibroid location, anaemia, fertility plans, age and other medical factors."
+            }
+          ]
+        },
+        {
+          "heading": "What are the treatment options for fibroids?",
+          "blocks": [
+            {
+              "t": "labels",
+              "items": [
+                {
+                  "label": "Observation",
+                  "text": "Small or asymptomatic fibroids may not require immediate treatment."
+                },
+                {
+                  "label": "Medication",
+                  "text": "Medicines may help control heavy bleeding, menstrual pain or other symptoms. Some medicines temporarily reduce fibroid size."
+                },
+                {
+                  "label": "Myomectomy",
+                  "text": "Surgical removal of fibroids while preserving the uterus may be appropriate for women who wish to retain fertility or the uterus."
+                },
+                {
+                  "label": "Uterine artery embolisation",
+                  "text": "A procedure that reduces the blood supply to fibroids in selected patients. Its suitability depends partly on future pregnancy plans."
+                },
+                {
+                  "label": "Hysterectomy",
+                  "text": "Removal of the uterus may be considered for severe symptoms when other treatments are unsuitable or unsuccessful and future pregnancy is not desired."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Can fibroids disappear without treatment?",
+          "a": "Some fibroids remain stable, while others change in size. Many shrink after menopause."
+        },
+        {
+          "q": "Do fibroids always cause infertility?",
+          "a": "No. Many women with fibroids conceive naturally. The effect on fertility depends particularly on the location and size of the fibroid."
+        },
+        {
+          "q": "Does every fibroid need surgery?",
+          "a": "No. Observation or medication may be sufficient for many women."
+        }
+      ],
+      "closing": [
+        "Experiencing heavy periods or pelvic pressure? A gynaecological assessment can help identify the cause and determine whether treatment is necessary."
+      ]
+    }
+  },
+  {
+    "name": "Tubal Recanalisation",
+    "slug": "tubal-recanalisation",
+    "sortOrder": 12,
+    "iconKey": "LinkSimple",
+    "imageUrl": "/images/consultation-room.jpg",
+    "summary": "Reconnecting the fallopian tubes after sterilisation.",
+    "heroHeading": "Tubal Recanalisation After Sterilisation",
+    "heroSub": "A detailed fertility assessment to decide whether tubal reconstruction or another option is right for you.",
+    "content": {
+      "fullTitle": "Tubal Recanalisation",
+      "sections": [
+        {
+          "heading": "What is tubal recanalisation?",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Tubal recanalisation is a surgical procedure intended to restore continuity in the fallopian tubes after tubal sterilisation, commonly called tubectomy."
+            },
+            {
+              "t": "p",
+              "text": "The fallopian tubes normally transport the egg from the ovary towards the uterus and provide the site where fertilisation usually occurs. If the tubes have been cut, tied or blocked during sterilisation, pregnancy may be difficult without further treatment."
+            },
+            {
+              "t": "p",
+              "text": "Tubal recanalisation attempts to reconnect or reopen the tubes so that natural conception may become possible."
+            }
+          ]
+        },
+        {
+          "heading": "Who may be suitable for tubal recanalisation?",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Suitability depends on several factors, including:"
+            },
+            {
+              "t": "ul",
+              "items": [
+                "The method used during the original tubal sterilisation.",
+                "The remaining length and condition of the fallopian tubes.",
+                "The presence of scarring or other pelvic conditions.",
+                "The woman's age and ovarian reserve.",
+                "Semen analysis results and other fertility factors.",
+                "The couple's reproductive goals."
+              ]
+            },
+            {
+              "t": "p",
+              "text": "Women with extensive tubal damage or other significant fertility factors may be advised to consider alternative treatments, including IVF."
+            }
+          ]
+        },
+        {
+          "heading": "How is tubal recanalisation performed?",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Depending on the type and location of the tubal blockage, the procedure may involve microsurgical techniques to reconnect the fallopian tube segments."
+            },
+            {
+              "t": "p",
+              "text": "The exact surgical approach depends on the previous sterilisation method, the available healthy tubal tissue and the surgeon's assessment."
+            }
+          ]
+        },
+        {
+          "heading": "What are the chances of pregnancy after recanalisation?",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Pregnancy outcomes vary significantly. Important factors include the woman's age, the length and condition of the reconstructed tubes, sperm quality and other fertility-related conditions."
+            },
+            {
+              "t": "p",
+              "text": "Tubal recanalisation does not guarantee pregnancy. There is also an increased concern for ectopic pregnancy after tubal surgery, so early medical assessment and ultrasound are important if pregnancy occurs."
+            }
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Can I become pregnant after tubectomy reversal?",
+          "a": "Yes, pregnancy may be possible in appropriately selected women."
+        },
+        {
+          "q": "Is tubal recanalisation possible after every type of tubectomy?",
+          "a": "No. The original surgical method and the amount of healthy tube remaining are important."
+        },
+        {
+          "q": "How soon can I try to conceive after surgery?",
+          "a": "The recommended interval depends on the procedure, healing and your surgeon's advice."
+        },
+        {
+          "q": "Can I choose between recanalisation and IVF?",
+          "a": "A fertility consultation can help compare the expected benefits, risks and likely outcomes of both options in your individual circumstances."
+        }
+      ],
+      "closing": [
+        "Considering pregnancy after sterilisation? A detailed fertility assessment can help determine whether tubal reconstruction or another fertility treatment is more appropriate."
+      ]
+    }
+  },
+  {
+    "name": "Bleeding & Menses Problems",
+    "slug": "bleeding-menses-problems",
+    "sortOrder": 13,
+    "iconKey": "CalendarCheck",
+    "imageUrl": "/images/wellness-woman.jpg",
+    "summary": "Irregular, heavy or painful periods, evaluated properly.",
+    "heroHeading": "Care for Bleeding and Menstrual Problems",
+    "heroSub": "Find the cause of abnormal bleeding, relieve symptoms and protect long-term reproductive health.",
+    "content": {
+      "fullTitle": "Bleeding/menses problems",
+      "sections": [
+        {
+          "heading": "Understanding menstrual problems",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Menstruation is a natural part of a woman's reproductive health. However, changes in menstrual cycles, excessive bleeding, missed periods or severe period pain can sometimes indicate an underlying health condition."
+            },
+            {
+              "t": "p",
+              "text": "Menstrual problems are common and can occur during adolescence, the reproductive years and the transition to menopause. Although some changes are temporary, persistent or unusual bleeding should not be ignored."
+            },
+            {
+              "t": "p",
+              "text": "With appropriate evaluation, many menstrual disorders can be managed effectively."
+            }
+          ]
+        },
+        {
+          "heading": "What are the common types of menstrual problems?",
+          "blocks": []
+        },
+        {
+          "heading": "Irregular periods",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Irregular periods occur when menstrual cycles vary significantly in length or bleeding occurs unpredictably. Common causes include hormonal changes, polycystic ovary syndrome (PCOS), thyroid disorders, stress, significant weight changes and perimenopause."
+            }
+          ]
+        },
+        {
+          "heading": "Heavy menstrual bleeding",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Heavy menstrual bleeding refers to menstrual blood loss that interferes with everyday activities, work, sleep or quality of life."
+            },
+            {
+              "t": "p",
+              "text": "Possible symptoms include:"
+            },
+            {
+              "t": "ul",
+              "items": [
+                "Bleeding that lasts longer than usual.",
+                "Frequently changing sanitary pads or menstrual products.",
+                "Passing large blood clots.",
+                "Feeling tired, weak or breathless due to anaemia.",
+                "Difficulty carrying out routine activities during menstruation.",
+                "Causes may include uterine fibroids, adenomyosis, hormonal disturbances, bleeding disorders and certain medications."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Painful periods",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Menstrual cramps are common, but severe pain that affects daily life requires assessment. Possible causes include primary menstrual cramps, endometriosis, adenomyosis and fibroids."
+            }
+          ]
+        },
+        {
+          "heading": "Missed periods or absent menstruation",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Periods may stop because of pregnancy, breastfeeding, significant weight changes, excessive exercise, PCOS, thyroid disorders, elevated prolactin or other hormonal conditions."
+            },
+            {
+              "t": "p",
+              "text": "A pregnancy test is an important first step whenever pregnancy is possible."
+            }
+          ]
+        },
+        {
+          "heading": "Bleeding between periods",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Bleeding between menstrual periods may occur due to hormonal changes, cervical conditions, polyps, infections, contraceptive use or other gynaecological conditions. Persistent or recurrent bleeding requires medical assessment."
+            }
+          ]
+        },
+        {
+          "heading": "Bleeding after menopause",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Any vaginal bleeding after menopause should be evaluated promptly, even if it is light or occurs only once. Although many causes are benign, assessment is necessary to exclude endometrial and other significant conditions."
+            }
+          ]
+        },
+        {
+          "heading": "What causes menstrual problems?",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Menstrual disturbances can occur due to several factors, including:"
+            },
+            {
+              "t": "ul",
+              "items": [
+                "Hormonal imbalances.",
+                "PCOS.",
+                "Uterine fibroids and adenomyosis.",
+                "Endometriosis.",
+                "Thyroid disorders.",
+                "Pregnancy-related conditions.",
+                "Changes in weight, stress or physical activity.",
+                "Certain medications or contraceptive methods.",
+                "Perimenopause and other reproductive health changes.",
+                "Identifying the underlying cause is important because treatment differs depending on the condition."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "How are menstrual problems diagnosed?",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Your gynaecologist may recommend an assessment based on your symptoms, age, medical history and reproductive goals. Investigations may include:"
+            },
+            {
+              "t": "ul",
+              "items": [
+                "Review of menstrual dates, duration and bleeding pattern.",
+                "Pregnancy testing when relevant.",
+                "Blood tests, including a complete blood count to check for anaemia.",
+                "Thyroid or other hormonal tests when indicated.",
+                "Pelvic ultrasound to assess the uterus and ovaries.",
+                "Further evaluation, such as hysteroscopy or endometrial sampling, in selected cases.",
+                "Not every woman needs all these investigations. Testing is individualised according to the clinical presentation."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "What are the treatment options for menstrual problems?",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Treatment depends on the underlying cause, the severity of symptoms, age and whether you wish to become pregnant."
+            },
+            {
+              "t": "labels",
+              "items": [
+                {
+                  "label": "Lifestyle and supportive care",
+                  "text": "Appropriate nutrition, physical activity, adequate rest and treatment of iron deficiency may help overall health."
+                },
+                {
+                  "label": "Medication",
+                  "text": "Depending on the diagnosis, treatment may include medicines to reduce heavy bleeding, anti-inflammatory medicines for menstrual pain, hormonal contraception or progestogen therapy."
+                },
+                {
+                  "label": "Treatment of underlying conditions",
+                  "text": "PCOS, thyroid disorders, infections and other relevant conditions may require specific treatment."
+                },
+                {
+                  "label": "Procedures and surgery",
+                  "text": "Some women with fibroids, polyps, adenomyosis or other structural conditions may benefit from hysteroscopy or surgery. Hysterectomy may be considered for selected women with severe symptoms who have completed childbearing and when appropriate alternatives have been discussed."
+                }
+              ]
+            },
+            {
+              "t": "p",
+              "text": "Treatment should be chosen after a proper assessment rather than relying on medication without identifying the cause."
+            }
+          ]
+        },
+        {
+          "heading": "When should you seek medical attention?",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Seek urgent medical care if you experience:"
+            },
+            {
+              "t": "ul",
+              "items": [
+                "Very heavy bleeding accompanied by dizziness, fainting, marked weakness or breathlessness.",
+                "Severe abdominal or pelvic pain, particularly if pregnancy is possible.",
+                "Heavy bleeding during pregnancy.",
+                "Bleeding after menopause."
+              ]
+            },
+            {
+              "t": "p",
+              "text": "Consult a gynaecologist for persistent irregular periods, repeated bleeding between periods, severe period pain or menstrual bleeding that affects your daily activities."
+            }
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Are irregular periods normal?",
+          "a": "Some variation is common, particularly during adolescence and perimenopause. However, persistent irregularity or prolonged absence of periods should be evaluated."
+        },
+        {
+          "q": "Can stress affect menstruation?",
+          "a": "Yes. Significant stress can affect the hormonal signals that regulate ovulation and menstrual cycles. Persistent menstrual changes should not automatically be attributed to stress without considering other causes."
+        },
+        {
+          "q": "Can heavy periods cause anaemia?",
+          "a": "Yes. Excessive menstrual blood loss can lead to iron deficiency and anaemia, causing fatigue, weakness, dizziness and breathlessness."
+        },
+        {
+          "q": "Can menstrual problems affect fertility?",
+          "a": "Some conditions associated with irregular periods, such as PCOS or other ovulatory disorders, can affect fertility. Many are treatable, and appropriate evaluation can help identify the best approach."
+        },
+        {
+          "q": "Do all menstrual problems require surgery?",
+          "a": "No. Many conditions can be managed with medication, observation or treatment of an underlying hormonal problem. Surgery is recommended only when appropriate for the individual condition."
+        }
+      ],
+      "closing": [
+        "Compassionate care for menstrual health",
+        "Every woman's menstrual experience is different. Early evaluation can help identify the cause of abnormal bleeding, relieve symptoms and protect long-term reproductive health."
+      ]
+    }
+  },
+  {
+    "name": "Postpartum Care & Support",
+    "slug": "postpartum-care",
+    "sortOrder": 14,
+    "iconKey": "HandHeart",
+    "imageUrl": "/images/hands-reassurance.jpg",
+    "summary": "Physical and emotional support after childbirth.",
+    "heroHeading": "Compassionate Postpartum Care for Every Mother",
+    "heroSub": "Recovery, breastfeeding, emotional wellbeing and family planning, all in one place.",
+    "content": {
+      "fullTitle": "Postpartum Care & Support",
+      "sections": [
+        {
+          "heading": "What is postpartum care?",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Postpartum care refers to the physical, emotional and medical support a woman receives after giving birth. The postpartum period begins immediately after delivery and includes recovery from childbirth, adjustment to caring for a newborn, breastfeeding support and changes in emotional wellbeing."
+            },
+            {
+              "t": "p",
+              "text": "Recovery is different for every woman. Some women recover relatively quickly, while others need additional support for pain, bleeding, breastfeeding difficulties, surgical recovery or emotional concerns."
+            }
+          ]
+        },
+        {
+          "heading": "Postpartum care is not just about the baby. The mother's health and wellbeing deserve equal attention.",
+          "blocks": []
+        },
+        {
+          "heading": "What changes can you expect after delivery?",
+          "blocks": []
+        },
+        {
+          "heading": "Vaginal bleeding after delivery",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Vaginal bleeding after childbirth is called lochia. It usually changes in colour and gradually decreases over time."
+            },
+            {
+              "t": "p",
+              "text": "Contact your healthcare provider if bleeding becomes increasingly heavy, has a foul smell or is accompanied by fever, worsening abdominal pain or feeling unwell."
+            },
+            {
+              "t": "p",
+              "text": "Sudden heavy bleeding, faintness or collapse requires emergency medical attention."
+            }
+          ]
+        },
+        {
+          "heading": "Recovery after vaginal birth",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "After a vaginal delivery, women may experience perineal soreness, pelvic discomfort, fatigue and temporary difficulty sitting or walking comfortably."
+            },
+            {
+              "t": "p",
+              "text": "Recovery may be supported by:"
+            },
+            {
+              "t": "ul",
+              "items": [
+                "Adequate rest.",
+                "Appropriate pain relief recommended by your obstetrician.",
+                "Gentle movement as tolerated.",
+                "Perineal hygiene.",
+                "Adequate fluids and a balanced diet.",
+                "Assessment of persistent pain or problems passing urine or stool.",
+                "Women who have had an episiotomy or perineal tear may need specific wound-care advice."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Recovery after caesarean delivery",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Recovery after a caesarean section involves healing of the abdominal incision and deeper tissues. Pain, tiredness and temporary limitations in movement are common."
+            },
+            {
+              "t": "p",
+              "text": "Follow your surgeon's advice regarding wound care, lifting, driving, exercise and return to work. Seek medical assessment for increasing wound redness, swelling, discharge, fever or worsening pain."
+            }
+          ]
+        },
+        {
+          "heading": "Breastfeeding support",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Breastfeeding can take time to establish. Some women experience difficulty with positioning, attachment, nipple soreness, engorgement or concerns about milk supply."
+            },
+            {
+              "t": "p",
+              "text": "Support may include:"
+            },
+            {
+              "t": "ul",
+              "items": [
+                "Help with positioning and attachment.",
+                "Feeding according to the baby's cues.",
+                "Advice about expressing and storing breast milk.",
+                "Assessment of persistent nipple pain or breast inflammation.",
+                "Monitoring the baby's feeding, hydration and weight gain."
+              ]
+            },
+            {
+              "t": "p",
+              "text": "Breastfeeding difficulties are common and should be addressed without blame or guilt. When breastfeeding is not possible or is not the chosen option, appropriate infant-feeding guidance can help ensure the baby's nutritional needs are met."
+            }
+          ]
+        },
+        {
+          "heading": "Postpartum nutrition",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Good nutrition supports healing, energy levels and breastfeeding when applicable."
+            },
+            {
+              "t": "p",
+              "text": "A balanced diet may include:"
+            },
+            {
+              "t": "ul",
+              "items": [
+                "Protein-rich foods such as pulses, eggs, dairy products, fish or other suitable sources.",
+                "Iron-rich foods to support recovery from blood loss.",
+                "Fruits, vegetables and whole grains.",
+                "Adequate fluids.",
+                "Prescribed iron, calcium or other supplements when indicated."
+              ]
+            },
+            {
+              "t": "p",
+              "text": "Women should avoid restrictive diets during recovery and discuss supplements or weight-loss plans with their healthcare provider."
+            }
+          ]
+        },
+        {
+          "heading": "Pelvic floor and physical recovery",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Pregnancy and childbirth can affect pelvic floor muscles. Some women experience urinary leakage, pelvic heaviness, discomfort during intercourse or reduced core strength."
+            },
+            {
+              "t": "p",
+              "text": "Gentle movement and appropriately taught pelvic floor exercises may help. Women with persistent symptoms, significant pain or suspected pelvic organ prolapse may benefit from a clinical assessment and pelvic floor physiotherapy."
+            },
+            {
+              "t": "p",
+              "text": "Return to exercise should be gradual and guided by the mode of delivery, recovery and any complications."
+            }
+          ]
+        },
+        {
+          "heading": "Emotional wellbeing after childbirth",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "The transition to motherhood can bring happiness, excitement, exhaustion and uncertainty. Hormonal changes, sleep deprivation, physical recovery and the demands of caring for a newborn can affect emotional wellbeing."
+            }
+          ]
+        },
+        {
+          "heading": "Baby blues",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Some women experience temporary tearfulness, mood swings, irritability or anxiety in the first few days after delivery. These feelings commonly improve within about two weeks."
+            }
+          ]
+        },
+        {
+          "heading": "Postpartum depression",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Postpartum depression involves more persistent or severe symptoms, which may include:"
+            },
+            {
+              "t": "ul",
+              "items": [
+                "Persistent sadness or anxiety.",
+                "Loss of interest in usual activities.",
+                "Feeling overwhelmed, hopeless or excessively guilty.",
+                "Difficulty sleeping even when there is an opportunity to rest.",
+                "Difficulty bonding with the baby.",
+                "Changes in appetite or concentration."
+              ]
+            },
+            {
+              "t": "p",
+              "text": "These symptoms deserve professional assessment. Postpartum depression is treatable, and seeking help is a sign of strength, not failure."
+            },
+            {
+              "t": "p",
+              "text": "Sudden confusion, hallucinations, severe agitation, unusual beliefs or thoughts of harming yourself or the baby require emergency mental health assessment. Do not remain alone if you feel unsafe."
+            }
+          ]
+        },
+        {
+          "heading": "Postpartum warning signs: When should you seek medical help?",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Seek urgent medical attention for any of the following:"
+            },
+            {
+              "t": "ul",
+              "items": [
+                "Heavy vaginal bleeding, fainting or collapse.",
+                "Fever or chills with feeling unwell.",
+                "Severe or persistent headache, visual disturbances or seizures.",
+                "Chest pain, difficulty breathing or sudden breathlessness.",
+                "One-sided leg swelling or pain.",
+                "Severe or worsening abdominal pain.",
+                "Increasing redness, swelling or discharge from a surgical wound.",
+                "Persistent vomiting or inability to keep fluids down.",
+                "Severe emotional distress or thoughts of harming yourself or the baby."
+              ]
+            },
+            {
+              "t": "p",
+              "text": "Some pregnancy-related complications, including high blood pressure, blood clots and serious infections, can occur after delivery. Do not dismiss concerning symptoms as ordinary postpartum changes."
+            }
+          ]
+        },
+        {
+          "heading": "Postpartum follow-up and recovery planning",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Postpartum care should be individualised rather than limited to a single visit. Contact with your maternity care team in the early days after discharge, followed by a comprehensive postpartum assessment generally within six weeks, or earlier when indicated is important."
+            },
+            {
+              "t": "p",
+              "text": "Your review may include:"
+            },
+            {
+              "t": "ul",
+              "items": [
+                "Blood pressure and recovery from pregnancy-related complications.",
+                "Assessment of vaginal bleeding and wound healing.",
+                "Breastfeeding or infant-feeding concerns.",
+                "Screening for postpartum depression and anxiety.",
+                "Urinary, bowel and pelvic floor symptoms.",
+                "Contraception and birth-spacing discussions.",
+                "Advice about exercise, nutrition, sleep and resuming sexual activity.",
+                "Planning for future pregnancies when relevant."
+              ]
+            },
+            {
+              "t": "p",
+              "text": "Women with high-risk pregnancies, caesarean deliveries, significant blood loss, hypertension or other complications may need earlier or more frequent reviews."
+            }
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "How long does postpartum recovery take?",
+          "a": "Recovery varies. Initial physical changes often improve over several weeks, but complete recovery may take longer, particularly after a caesarean, complicated delivery or significant perineal injury."
+        },
+        {
+          "q": "When can I start exercising after delivery?",
+          "a": "Gentle movement can often begin early as tolerated. More strenuous exercise should be introduced gradually, taking account of the delivery, symptoms and medical advice."
+        },
+        {
+          "q": "Is it normal to feel emotional after childbirth?",
+          "a": "Temporary emotional changes are common. However, symptoms that persist, worsen or interfere with daily functioning require assessment."
+        },
+        {
+          "q": "When can I resume sexual activity after delivery?",
+          "a": "There is no single timeline suitable for everyone. Healing, bleeding, comfort, pelvic floor symptoms and individual circumstances should guide the decision. Seek advice if you experience persistent pain or discomfort."
+        },
+        {
+          "q": "Can I become pregnant soon after childbirth?",
+          "a": "Yes. Ovulation may occur before the first menstrual period, even while breastfeeding. Discuss contraception and birth spacing with your healthcare provider."
+        },
+        {
+          "q": "Do I need a postpartum check-up if I feel well?",
+          "a": "Yes. A postpartum review provides an opportunity to assess recovery, blood pressure where relevant, emotional wellbeing, feeding concerns and contraception, even if you feel well."
+        }
+      ],
+      "closing": [
+        "Compassionate postpartum care for every mother",
+        "The weeks after childbirth are a time of physical healing, emotional adjustment and learning to care for your newborn. Every mother deserves guidance, reassurance and timely medical attention when needed.",
+        "My approach to postpartum care focuses on supporting maternal recovery, breastfeeding when desired, emotional wellbeing, pelvic floor health and informed family planning.",
+        "You do not have to navigate motherhood alone. With appropriate support and medical guidance, you can recover with greater confidence and care for yourself while caring for your baby."
+      ]
+    }
+  }
+]

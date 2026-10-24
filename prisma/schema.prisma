@@ -1,0 +1,140 @@
+// Dr Prema backend schema.
+// `Service` is the single category table: every content model points at it via `serviceId`,
+// which is what lets content appear automatically on the matching service page.
+
+generator client {
+  provider = "prisma-client"
+  output   = "../src/generated/prisma"
+}
+
+datasource db {
+  provider = "mysql"
+}
+
+model AdminUser {
+  id           Int      @id @default(autoincrement())
+  email        String   @unique @db.VarChar(191)
+  name         String   @db.VarChar(120)
+  passwordHash String   @db.VarChar(255)
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+}
+
+model Service {
+  id            Int     @id @default(autoincrement())
+  name          String  @db.VarChar(160)
+  slug          String  @unique @db.VarChar(191)
+  summary       String  @db.VarChar(500)
+  heroHeading   String  @db.VarChar(255)
+  heroSub       String  @db.VarChar(500)
+  // Image of the service card / hero.
+  imageUrl      String? @db.VarChar(500)
+  imagePublicId String? @db.VarChar(255)
+  // Phosphor icon key used by the frontend.
+  iconKey       String? @db.VarChar(60)
+  // Landing page body: { sections: [...], faqs: [...], closing: [...] }.
+  content       Json?
+  isEnabled     Boolean @default(true)
+  sortOrder     Int     @default(0)
+
+  blogs         Blog[]
+  testimonials  Testimonial[]
+  galleryImages GalleryImage[]
+  publications  Publication[]
+  videos        Video[]
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([isEnabled, sortOrder])
+}
+
+model Blog {
+  id                    Int      @id @default(autoincrement())
+  serviceId             Int
+  service               Service  @relation(fields: [serviceId], references: [id], onDelete: Restrict)
+  title                 String   @db.VarChar(255)
+  slug                  String   @unique @db.VarChar(191)
+  // Optional custom public path, e.g. "pcos/what-is-pcos". Unique when set.
+  urlRewrite            String?  @unique @db.VarChar(191)
+  metaTitle             String?  @db.VarChar(255)
+  metaDescription       String?  @db.VarChar(500)
+  excerpt               String   @db.VarChar(500)
+  content               String   @db.LongText
+  readTimeMinutes       Int      @default(1)
+  featuredImageUrl      String?  @db.VarChar(500)
+  featuredImagePublicId String?  @db.VarChar(255)
+  imageAlt              String?  @db.VarChar(255)
+  isPublished           Boolean  @default(false)
+  publishDate           DateTime @default(now())
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([serviceId, isPublished, publishDate])
+  @@index([isPublished, publishDate])
+}
+
+model Testimonial {
+  id            Int     @id @default(autoincrement())
+  serviceId     Int
+  service       Service @relation(fields: [serviceId], references: [id], onDelete: Restrict)
+  name          String  @db.VarChar(160)
+  review        String  @db.Text
+  rating        Int     @default(5)
+  imageUrl      String? @db.VarChar(500)
+  imagePublicId String? @db.VarChar(255)
+  isEnabled     Boolean @default(true)
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([serviceId, isEnabled])
+}
+
+model GalleryImage {
+  id        Int     @id @default(autoincrement())
+  serviceId Int
+  service   Service @relation(fields: [serviceId], references: [id], onDelete: Restrict)
+  imageUrl  String  @db.VarChar(500)
+  publicId  String  @db.VarChar(255)
+  altText   String  @db.VarChar(255)
+  isEnabled Boolean @default(true)
+  sortOrder Int     @default(0)
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([serviceId, isEnabled, sortOrder])
+}
+
+model Publication {
+  id               Int     @id @default(autoincrement())
+  serviceId        Int
+  service          Service @relation(fields: [serviceId], references: [id], onDelete: Restrict)
+  title            String  @db.VarChar(255)
+  shortDescription String  @db.VarChar(500)
+  url              String  @db.VarChar(500)
+  isEnabled        Boolean @default(true)
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([serviceId, isEnabled])
+}
+
+// Instagram reels/posts are only linked, never hosted: we store the link and, optionally, an uploaded thumbnail.
+model Video {
+  id                Int     @id @default(autoincrement())
+  serviceId         Int
+  service           Service @relation(fields: [serviceId], references: [id], onDelete: Restrict)
+  videoUrl          String  @db.VarChar(500)
+  thumbnailUrl      String? @db.VarChar(500)
+  thumbnailPublicId String? @db.VarChar(255)
+  isEnabled         Boolean @default(true)
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([serviceId, isEnabled])
+}
